@@ -39,6 +39,7 @@
 - numpy - version 1.24.3
 - matplotlib - version 3.7.2
 - plotly - version 5.9.0
+- seaborn - verison 0.12.2
 
 
 
