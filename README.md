@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> Understand and identify the driving factors behind loan defaults so that the company can make use for riskassesment.
+> Understand and identify the driving factors behind loan defaults so that the lending club company can make use for riskassesment.
 
 
 ## Table of Contents
@@ -20,19 +20,26 @@
   credit loss. Identification of such applicants using EDA is the aim of this case study.
 - loan.csv is used for the project
 
+## Driving factors
+- Home Ownership
+- Purpose
+- DTI
+- Annual income
+- Pub_rec
+- Grade
 
 ## Conclusions
--Loans with an interest rate exceeding 12% are more likely to be charged off compared to lower interest rate categories.
+- Loans with an interest rate exceeding 12% are more likely to be charged off compared to lower interest rate categories.
 
--Individuals without home ownership are at a higher risk of loan default.
+- Individuals without home ownership are at a higher risk of loan default.
 
--Applicants seeking loans for Renewable Energy and Small Business purposes have an elevated likelihood of defaulting.
+- Applicants seeking loans for Renewable Energy and Small Business purposes have an elevated likelihood of defaulting.
 
--Elevated Debt-to-Income (DTI) ratios pose a greater risk of defaults, as they may be linked to lower annual incomes.
+- Elevated Debt-to-Income (DTI) ratios pose a greater risk of defaults, as they may be linked to lower annual incomes.
 
--A higher count of bankruptcies is associated with an increased probability of loan defaults.
+- A higher count of bankruptcies is associated with an increased probability of loan defaults.
 
--Loans classified under Grade G have the highest likelihood of default among different loan grades
+- Loans classified under Grade G have the highest likelihood of default among different loan grades
 
 ## Technologies Used
 - pandas - version 2.0.3
@@ -50,6 +57,6 @@
 
 
 ## Contact
-Created by [@TejasKDA] - feel free to contact me!
+Created by [@TejasKDA] and [@]
 
 
